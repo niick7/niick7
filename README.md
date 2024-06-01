@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi There! :raised_hand:
 
-<!--
-**niick7/niick7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nhan Vo (he/him), a Full-stack Software Engineer currently dedicated to healthcare system projects.
 
-Here are some ideas to get you started:
+Let's collaborate in this exciting new eco-space! :rocket:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm available for both full-time and contract opportunities.
+
+Feel free to contact me at **niick7** 'at' **gmail** 'dot' **com**
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,java,nodejs,js,rails,spring,aws,azure,postgres,mysql,mongodb,docker,kubernetes,graphql,visualstudio,eclipse,linux,ubuntu,vim,postman&perline=10)](https://skillicons.dev)
