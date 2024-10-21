@@ -18,3 +18,10 @@
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=ruby,java,nodejs,rails,spring,aws,azure,postgres,mysql,mongodb,docker,kubernetes&perline=12)](https://skillicons.dev)
+
+# Certifications
+After passing some examinations, I have earned the following certifications: <br />
++ Frontend Developer (**React**), by HackerRank - Oct 2024
++ SQL (**Advanced**), HackerRank - Jul 2024
++ Software Engineer (**Ruby**), HackerRank - Jul 2024
++ Scaled **Agile** Framework 5 **Practitioner**, Scaled Agile - Apr 2022
