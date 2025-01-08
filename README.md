@@ -1,6 +1,6 @@
 # Hi There! :raised_hand:
 
-:palm_tree: My name is **Nick**, and I am a Senior Software Engineer with **13 years** of experience across multiple domains, including Employee Management, Object Detection, Restaurant AI Feedback Systems, Outsourcing, Web Donation, Payment Services, and Healthcare. 
+:palm_tree: My name is **Nick**, and I am a Senior Software Engineer with **13 years** of experience across multiple domains, including Employee Management, Object Detection, Restaurant AI Feedback Systems, Outsourcing, Web Donation, Payment Services, Healthcare and Oracle Retail. 
 
 :muscle: I specialize in **backend** technologies (Ruby, Java, Node.js) and **frontend** frameworks (ReactJS, AngularJS, jQuery).
 
